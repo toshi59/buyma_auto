@@ -1,0 +1,5 @@
+■ 準備
+
+１．SeleniumのインストールとWebDriverの設定
+　　こちらのサイトを参考にインストールください。
+　　https://teshi-learn.com/2020-08/beginner-selenium-setup/
